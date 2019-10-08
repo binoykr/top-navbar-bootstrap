@@ -138,7 +138,7 @@ function App() {
                         <div class="media">
                           <div class="pr-10">
                             <span class="avatar md online">
-                              <img src="https://raw.githubusercontent.com/binoykr/react-admin-ui/new-dashboard/public/imgs/user-binoy.jpg" alt="..."
+                              <img src="https://raw.githubusercontent.com/binoykr/top-navbar-bootstrap/master/public/imgs/user-binoy.jpg" alt="..."
                                 class="rounded-circle" width="40px" height="40px" />
                               <i></i>
                             </span>
@@ -156,7 +156,7 @@ function App() {
                         <div class="media">
                           <div class="pr-10">
                             <span class="avatar md online">
-                              <img src="https://raw.githubusercontent.com/binoykr/react-admin-ui/new-dashboard/public/imgs/user-binoy.jpg" alt="..."
+                              <img src="https://raw.githubusercontent.com/binoykr/top-navbar-bootstrap/master/public/imgs/user-binoy.jpg" alt="..."
                                 class="rounded-circle" width="40px" height="40px" />
                               <i></i>
                             </span>
@@ -173,7 +173,7 @@ function App() {
                         <div class="media">
                           <div class="pr-10">
                             <span class="avatar md online">
-                              <img src="https://raw.githubusercontent.com/binoykr/react-admin-ui/new-dashboard/public/imgs/user-binoy.jpg" alt="..."
+                              <img src="https://raw.githubusercontent.com/binoykr/top-navbar-bootstrap/master/public/imgs/user-binoy.jpg" alt="..."
                                 class="rounded-circle" width="40px" height="40px" />
                               <i></i>
                             </span>
@@ -190,7 +190,7 @@ function App() {
                         <div class="media">
                           <div class="pr-10">
                             <span class="avatar md online">
-                              <img src="https://raw.githubusercontent.com/binoykr/react-admin-ui/new-dashboard/public/imgs/user-binoy.jpg" alt="..."
+                              <img src="https://raw.githubusercontent.com/binoykr/top-navbar-bootstrap/master/public/imgs/user-binoy.jpg" alt="..."
                                 class="rounded-circle" width="40px" height="40px" />
                               <i></i>
                             </span>
@@ -221,7 +221,7 @@ function App() {
                   Hi Binoy
               </span>
                 <span class="online">
-                  <img src="https://raw.githubusercontent.com/binoykr/react-admin-ui/new-dashboard/public/imgs/user-binoy.jpg"
+                  <img src="https://raw.githubusercontent.com/binoykr/top-navbar-bootstrap/master/public/imgs/user-binoy.jpg"
                     class="rounded-circle" width="30px" height="30px" />
                 </span>
               </a>
