@@ -6,7 +6,7 @@ This project contains the fancy top navigation bar developed in react applicatio
 
 ## Screens
 * The below screen full view of top navigation bar.
-<img src="docs/images/img-main.png" width="500" height="200">
+<img src="docs/images/img-main.png" width="700" height="100">
 
 * The below screen full view of profile dropdown menu in top navigation bar.
 <img src="docs/images/img-profile.png" width="400" height="300">
